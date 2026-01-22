@@ -1,5 +1,5 @@
 # Give (mini submission + testing system)
-
+ 
 A lightweight, POSIX-shell reimplementation of a simple course-style
 submission and testing workflow. It provides commands to create
 assignments, accept multiple student submissions, list/status/fetch
