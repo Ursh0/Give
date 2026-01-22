@@ -6,6 +6,8 @@ assignments, accept multiple student submissions, list/status/fetch
 submissions, run autotests, run automarking, and remove assignments ---
 all backed by a local `.give/` directory.
 
+Private Repository - Contact me for access
+
 ## What it does
 
 -   Stores all state in **`.give/`** (no external storage)
